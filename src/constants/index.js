@@ -106,6 +106,14 @@ export const reviews = [
     feedback:
       "The product not only met but exceeded my expectations. I'll definitely be a returning customer!",
   },
+  {
+    imgURL:
+      "https://static.showit.co/1200/12cY08_BQialFWdKF1y8Lg/25111/headshots_myrtle_beach-_pasha_belman_myrtle_beach_headshots_for_professionals_-9.jpg",
+    customerName: "Sarah Johnson",
+    rating: 5.0,
+    feedback:
+      "I was absolutely delighted with the product. It`s exactly what I was looking for, and the service was exceptional!",
+  },
 ];
 
 export const footerLinks = [
